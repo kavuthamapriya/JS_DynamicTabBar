@@ -1,0 +1,18 @@
+{
+  "HOME": {
+    "name": "Home",
+    "image": "<img src='images/img1.png' alt='Header Image'>",
+
+    "content": " <p>Lorem ipsum dolor sit, amet consectetur adipisicing  reiciendis volup facere, eligendi tempore atque adipisci fugit nobis culpa debitis quia?</p>"
+  },
+  "PRODUCT": {
+    "name": "Product",
+    "image": "<img src='images/img2.png' alt='Header Image'>",
+    "content": " <p>Tgkj ibkjo reiciendis volup facere, eligendi temRfdru olor sit, amet consectetur adipisicing  reiciendis volup facere, eligendi tempore atque adipisci fugit nobis culpa debitis quia?</p>"
+  },
+  "CONTACT": {
+    "name": "Contact",
+    "image": "<img src='images/img3.png' alt='Header Image'>",
+    "content": " <p> The reiciendis volup facere, eligendi tem Lorem ipsum dolor sit, amet consectetur adipisicing  pore atque adipisci fugit nobis culpa debitis quia?</p>"
+  }
+}
